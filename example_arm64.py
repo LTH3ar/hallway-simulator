@@ -14,6 +14,18 @@ self.time_stamp = 0 # int
 self.event_type = 0 # int
 """
 os.system("pwd")
+"""
+set_params(
+hallway_id: string, 
+hallway_length: int, 
+hallway_width: int, 
+agv_ids: list[], 
+agv_directions: list[], 
+num_people: int, 
+human_type_distribution: list[], 
+time_stamp: int, 
+event_type: int)
+"""
 hallway_simulator.set_params("hallway_1", 3, 6, [0], [0], 50, [22, 5, 17, 22, 17, 17], 0, 0)
 output = hallway_simulator.run_simulation()
 print(output) # [(AGV ID, Time),...]
