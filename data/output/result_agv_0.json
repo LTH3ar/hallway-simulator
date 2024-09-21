@@ -1,10 +1,10 @@
 {
-    "AGVRealTime": 7754,
+    "AGVRealTime": 110585,
     "agvId": 0,
     "generalDirection": 0,
-    "hallwayLength": 3.0,
+    "hallwayLength": 66.0,
     "hallwayName": "hallway_1",
     "numOfCollision": 0,
     "totalStopTime": 0,
-    "travelingTime": 7754
+    "travelingTime": 110585
 }
