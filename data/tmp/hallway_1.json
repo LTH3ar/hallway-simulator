@@ -30,34 +30,6 @@
                         0.0,
                         0.0
                     ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        34.0,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 0,
-                    "travelingTime": 0,
-                    "velocity": [
-                        0.0,
-                        0.0,
-                        0.0
-                    ]
                 }
             ],
             "event_time": 0
@@ -80,43 +52,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -33.409019470214844,
+                        -33.438995361328125,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        33.409019470214844,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -142,43 +86,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -32.8060417175293,
+                        -32.87199401855469,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        32.8060417175293,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -204,43 +120,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -32.2060661315918,
+                        -32.271995544433594,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        32.2060661315918,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -266,43 +154,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -31.609071731567383,
+                        -31.671993255615234,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        31.609071731567383,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -328,43 +188,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -31.006065368652344,
+                        -31.068992614746094,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        31.006065368652344,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -390,43 +222,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -30.409059524536133,
+                        -30.468990325927734,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        30.409059524536133,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -452,43 +256,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -29.809053421020508,
+                        -29.871986389160156,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        29.809053421020508,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -514,43 +290,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -29.20604705810547,
+                        -29.271984100341797,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        29.20604705810547,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -576,43 +324,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -28.609041213989258,
+                        -28.671981811523438,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        28.609041213989258,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -638,43 +358,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -28.009035110473633,
+                        -28.068981170654297,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        28.009035110473633,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -700,43 +392,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -27.409029006958008,
+                        -27.47197723388672,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        27.409029006958008,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -762,43 +426,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -26.80602264404297,
+                        -26.87197494506836,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        26.80602264404297,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -824,43 +460,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -26.206016540527344,
+                        -26.26897430419922,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        26.206016540527344,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -886,43 +494,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -25.60601043701172,
+                        -25.67197036743164,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        25.60601043701172,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -948,43 +528,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -25.006004333496094,
+                        -25.0689697265625,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        25.006004333496094,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -1010,43 +562,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -24.408998489379883,
+                        -24.46896743774414,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        24.408998489379883,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -1072,43 +596,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -23.808992385864258,
+                        -23.86896514892578,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        23.808992385864258,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -1134,43 +630,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -23.20598602294922,
+                        -23.271961212158203,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        23.20598602294922,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -1196,43 +664,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -22.608980178833008,
+                        -22.671958923339844,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        22.608980178833008,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -1258,43 +698,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -22.00597381591797,
+                        -22.071956634521484,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        22.00597381591797,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -1320,43 +732,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -21.405967712402344,
+                        -21.471954345703125,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        21.405967712402344,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -1382,43 +766,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -20.80596160888672,
+                        -20.868953704833984,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        20.80596160888672,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -1444,43 +800,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -20.205955505371094,
+                        -20.271949768066406,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        20.205955505371094,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -1506,43 +834,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -19.60594940185547,
+                        -19.671947479248047,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        19.60594940185547,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -1568,43 +868,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -19.008943557739258,
+                        -19.071945190429688,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        19.008943557739258,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -1630,43 +902,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -18.408937454223633,
+                        -18.471942901611328,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        18.408937454223633,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -1692,43 +936,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -17.805931091308594,
+                        -17.87194061279297,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        17.805931091308594,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -1754,43 +970,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -17.208925247192383,
+                        -17.271940231323242,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        17.208925247192383,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -1816,43 +1004,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -16.608919143676758,
+                        -16.671937942504883,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        16.608919143676758,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -1878,43 +1038,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -16.008913040161133,
+                        -16.071935653686523,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        16.008913040161133,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -1940,43 +1072,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -15.405906677246094,
+                        -15.468935012817383,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        15.405906677246094,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -2002,43 +1106,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -14.805901527404785,
+                        -14.868934631347656,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        14.805901527404785,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -2064,43 +1140,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -14.20589542388916,
+                        -14.26893424987793,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        14.20589542388916,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -2126,43 +1174,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -13.605889320373535,
+                        -13.671934127807617,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        13.605889320373535,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -2188,43 +1208,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -13.008883476257324,
+                        -13.07193374633789,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        13.008883476257324,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -2250,43 +1242,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -12.4088773727417,
+                        -12.46893310546875,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        12.4088773727417,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -2312,43 +1276,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -11.808871269226074,
+                        -11.868932723999023,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        11.808871269226074,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -2374,43 +1310,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -11.20886516571045,
+                        -11.268932342529297,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        11.20886516571045,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -2436,43 +1344,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -10.60585880279541,
+                        -10.66893196105957,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        10.60585880279541,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -2498,43 +1378,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -10.0088529586792,
+                        -10.068931579589844,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        10.0088529586792,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -2560,43 +1412,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -9.408846855163574,
+                        -9.468931198120117,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        9.408846855163574,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -2622,43 +1446,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -8.80884075164795,
+                        -8.86893081665039,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        8.80884075164795,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -2684,43 +1480,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -8.20583438873291,
+                        -8.268930435180664,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        8.20583438873291,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -2746,43 +1514,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -7.605831146240234,
+                        -7.6689300537109375,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        7.605831146240234,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -2808,43 +1548,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -7.008828639984131,
+                        -7.071929931640625,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        7.008828639984131,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -2870,43 +1582,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -6.4088263511657715,
+                        -6.468929290771484,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        6.4088263511657715,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -2932,43 +1616,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -5.805824279785156,
+                        -5.868928909301758,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        5.805824279785156,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -2994,43 +1650,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -5.208821773529053,
+                        -5.271928787231445,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        5.208821773529053,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -3056,43 +1684,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -4.608819484710693,
+                        -4.668928146362305,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        4.608819484710693,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -3118,43 +1718,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -4.005817413330078,
+                        -4.071928024291992,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        4.005817413330078,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -3180,43 +1752,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -3.4058189392089844,
+                        -3.471928119659424,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        3.4058189392089844,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -3242,43 +1786,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -2.8088204860687256,
+                        -2.8719282150268555,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        2.8088204860687256,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -3304,43 +1820,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -2.205821990966797,
+                        -2.268928289413452,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        2.205821990966797,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -3366,43 +1854,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -1.608822226524353,
+                        -1.6689283847808838,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        1.608822226524353,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -3428,43 +1888,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -1.0088218450546265,
+                        -1.0689284801483154,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        1.0088218450546265,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -3490,43 +1922,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        -0.4088219404220581,
+                        -0.47192850708961487,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        0.4088219404220581,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -3552,43 +1956,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        0.191178098320961,
+                        0.1310715675354004,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -0.191178098320961,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -3614,43 +1990,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        0.7911779880523682,
+                        0.7310715913772583,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -0.7911779880523682,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -3676,43 +2024,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        1.394178032875061,
+                        1.3280714750289917,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -1.394178032875061,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -3738,43 +2058,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        1.9911785125732422,
+                        1.92807137966156,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -1.9911785125732422,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -3800,43 +2092,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        2.594177007675171,
+                        2.531071424484253,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -2.594177007675171,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -3862,43 +2126,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        3.1941754817962646,
+                        3.1280713081359863,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -3.1941754817962646,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -3924,43 +2160,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        3.7911739349365234,
+                        3.7310712337493896,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -3.7911739349365234,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -3986,43 +2194,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        4.391174793243408,
+                        4.331071376800537,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -4.391174793243408,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -4048,43 +2228,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        4.991177082061768,
+                        4.92807149887085,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -4.991177082061768,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -4110,43 +2262,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        5.591179370880127,
+                        5.528072357177734,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -5.591179370880127,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -4172,43 +2296,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        6.194181442260742,
+                        6.128072738647461,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -6.194181442260742,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -4234,43 +2330,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        6.794183731079102,
+                        6.731073379516602,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -6.794183731079102,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -4296,43 +2364,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        7.394186019897461,
+                        7.331073760986328,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -7.394186019897461,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -4358,43 +2398,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        7.99418830871582,
+                        7.931074142456055,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -7.99418830871582,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -4420,43 +2432,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        8.594194412231445,
+                        8.528074264526367,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -8.594194412231445,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -4482,43 +2466,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        9.191200256347656,
+                        9.128074645996094,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -9.191200256347656,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -4544,43 +2500,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        9.791205406188965,
+                        9.72807502746582,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -9.791205406188965,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -4606,43 +2534,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        10.394211769104004,
+                        10.331075668334961,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -10.394211769104004,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -4668,43 +2568,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        10.994217872619629,
+                        10.931076049804688,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -10.994217872619629,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -4730,43 +2602,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        11.594223976135254,
+                        11.531076431274414,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -11.594223976135254,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -4792,43 +2636,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        12.191229820251465,
+                        12.13107681274414,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -12.191229820251465,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -4854,43 +2670,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        12.794236183166504,
+                        12.728076934814453,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -12.794236183166504,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -4916,43 +2704,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        13.394242286682129,
+                        13.32807731628418,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -13.394242286682129,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -4978,43 +2738,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        13.994248390197754,
+                        13.93107795715332,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -13.994248390197754,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -5040,43 +2772,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        14.594254493713379,
+                        14.528078079223633,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -14.594254493713379,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -5102,43 +2806,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        15.194260597229004,
+                        15.131078720092773,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -15.194260597229004,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -5164,43 +2840,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        15.791266441345215,
+                        15.728078842163086,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -15.791266441345215,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -5226,43 +2874,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        16.391271591186523,
+                        16.328081130981445,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -16.391271591186523,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -5288,43 +2908,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        16.99127769470215,
+                        16.928083419799805,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -16.99127769470215,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -5350,43 +2942,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        17.591283798217773,
+                        17.528085708618164,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -17.591283798217773,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -5412,43 +2976,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        18.1912899017334,
+                        18.12808609008789,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -18.1912899017334,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -5474,43 +3010,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        18.794296264648438,
+                        18.72808837890625,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -18.794296264648438,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -5536,43 +3044,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        19.39130210876465,
+                        19.33108901977539,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -19.39130210876465,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -5598,43 +3078,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        19.991308212280273,
+                        19.92809295654297,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -19.991308212280273,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -5660,43 +3112,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        20.594314575195313,
+                        20.528095245361328,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -20.594314575195313,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -5722,43 +3146,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        21.191320419311523,
+                        21.128097534179688,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -21.191320419311523,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -5784,43 +3180,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        21.79132652282715,
+                        21.728099822998047,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -21.79132652282715,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -5846,43 +3214,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        22.391332626342773,
+                        22.331100463867188,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -22.391332626342773,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -5908,43 +3248,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        22.9913387298584,
+                        22.928104400634766,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -22.9913387298584,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -5970,43 +3282,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        23.591344833374023,
+                        23.528106689453125,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -23.591344833374023,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -6032,43 +3316,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        24.19135093688965,
+                        24.128108978271484,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -24.19135093688965,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -6094,43 +3350,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        24.791357040405273,
+                        24.728111267089844,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -24.791357040405273,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -6156,43 +3384,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        25.3913631439209,
+                        25.328113555908203,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -25.3913631439209,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -6218,43 +3418,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        25.991369247436523,
+                        25.928115844726563,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -25.991369247436523,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -6280,43 +3452,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        26.59137535095215,
+                        26.528118133544922,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -26.59137535095215,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -6342,43 +3486,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        27.191381454467773,
+                        27.12812042236328,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -27.191381454467773,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -6404,43 +3520,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        27.7913875579834,
+                        27.72812271118164,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -27.7913875579834,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -6466,43 +3554,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        28.394393920898438,
+                        28.328125,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -28.394393920898438,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -6528,43 +3588,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        28.994400024414063,
+                        28.92812728881836,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -28.994400024414063,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -6590,43 +3622,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        29.591405868530273,
+                        29.52812957763672,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -29.591405868530273,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -6652,43 +3656,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        30.1914119720459,
+                        30.128131866455078,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -30.1914119720459,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -6714,43 +3690,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        30.791418075561523,
+                        30.728134155273438,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -30.791418075561523,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -6776,43 +3724,15 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        31.39142417907715,
+                        31.328136444091797,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -31.39142417907715,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
@@ -6838,49 +3758,26 @@
                     "id": 0,
                     "numOfCollision": 0,
                     "position": [
-                        31.991430282592773,
+                        31.928138732910156,
                         -1.3333333730697632
                     ],
                     "reachDestination": false,
                     "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
+                    "totalStopTime": 22,
+                    "travelingTime": 90,
                     "velocity": [
                         0.6000000238418579,
-                        0.0,
-                        0.0
-                    ]
-                },
-                {
-                    "Width & Length": [
-                        0.3499999940395355,
-                        0.75
-                    ],
-                    "acceleration": 0.25,
-                    "collisionStartTime": 0,
-                    "direction": [
-                        1.0,
-                        1.0
-                    ],
-                    "generalDirection": 1,
-                    "id": 1,
-                    "numOfCollision": 0,
-                    "position": [
-                        -31.991430282592773,
-                        1.3333333730697632
-                    ],
-                    "reachDestination": false,
-                    "thresholdDisToPedes": 0.30000001192092896,
-                    "totalStopTime": 1,
-                    "travelingTime": 64,
-                    "velocity": [
-                        -0.6000000238418579,
                         0.0,
                         0.0
                     ]
                 }
             ],
             "event_time": 110
+        },
+        {
+            "agents": [],
+            "agvs": [],
+            "event_time": 111
         }
     ]
 }

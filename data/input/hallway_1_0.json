@@ -70,15 +70,13 @@
     "agvDirections": {
         "description": "Run direction of the AGV: left to right (0), right to left (1)",
         "value": [
-            0,
-            1
+            0
         ]
     },
     "agvIDs": {
         "description": "AGV ID",
         "value": [
-            0,
-            1
+            0
         ]
     },
     "timeline_pointer": {

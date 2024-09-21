@@ -26,6 +26,6 @@ human_type_distribution: list[],
 time_stamp: int, 
 event_type: int)
 """
-hallway_simulator.set_params("hallway_1", 3, 6, [0], [0], 50, [22, 5, 17, 22, 17, 17], 0, 0)
+hallway_simulator.set_params("hallway_1", 66, 4, [0], [0], 0, [22, 5, 17, 22, 17, 17], 0, 0)
 output = hallway_simulator.run_simulation()
 print(output) # [(AGV ID, Time),...]
