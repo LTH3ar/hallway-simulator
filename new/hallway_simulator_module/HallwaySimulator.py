@@ -264,7 +264,22 @@ class HallwaySimulator:
     def run_simulation(self):
         json_file = self.create_json()
         map_file = self.create_map()
-        os.system(f"x86_64/hallway_simulator_module/sim/app {json_file} {map_file} {self.event_type}")
+        tmp_file = f"data/tmp/{self.hallway_id}.json" # remove the last 2 characters and before the extension
+        # check if in input folder has the json file and map file
+        if not os.path.exists(json_file) or not os.path.exists(map_file) or not os.path.exists(tmp_file):
+            if not os.path.exists(json_file):
+                print(f"json file {json_file} not found")
+            if not os.path.exists(map_file):
+                print(f"map file {map_file} not found")
+            if not os.path.exists(f"data/tmp/{tmp_file}"):
+                print(f"tmp file {tmp_file} not found")
+            print("event_type 0")
+            os.system(f"x86_64/hallway_simulator_module/sim/app {json_file} {map_file} 0")
+
+        else:
+            print("event_type 1")
+            os.system(f"x86_64/hallway_simulator_module/sim/app {json_file} {map_file} 1")
+
 
         # scan the model/hallway_simulator_module/sim/data/output folder to get the run time of all AGVs (all in json format)
         time.sleep(1)
@@ -285,6 +300,22 @@ class HallwaySimulator:
     def clean(self):
         os.system("rm -rf data/input/*")
         os.system("rm -rf data/output/*")
+        # reset all variables
+        self.hallway_id = 0
+        self.hallway_length = 0
+        self.hallway_width = 0
+        self.agv_ids = []
+        self.agv_directions = []
+        self.num_people = 0
+        self.human_type_distribution = []
+        self.time_stamp = 0
+        self.event_type = 0
+
+    def full_clean(self):
+        os.system("rm -rf data/input/*")
+        os.system("rm -rf data/output/*")
+        os.system("rm -rf data/timeline/*")
+        os.system("rm -rf data/tmp/*")
         # reset all variables
         self.hallway_id = 0
         self.hallway_length = 0
@@ -360,71 +391,152 @@ for each time_stamp:
             
 """
 class BulkHallwaySimulator:
-    def __init__(self):
-        self.scenario_id = ""
-        self.human_distribution_function = ""
-        self.hallways = {}
+    def __init__(self, scenario_id, MaxAgents, hallways_list, functions_list, events_list):
+        self.scenario_id = scenario_id
+        self.Scenario = {}
         self.AGV_COMPLETION_LOGS = {}
+        self.MaxAgents = int(MaxAgents)
+        self.hallways_list = hallways_list
+        self.functions_list = functions_list
+        self.events_list = events_list
 
-    def readJson(self, json_data):
-        self.scenario_id = json_data["Scenario_ID"]
-        self.human_distribution_function = json_data["Human_distribution_function"]
-        self.hallways = json_data["hallways"]
 
     def read_function(self, function):
-        # y = a * x + b (x[from,to])
+        # y = a * x + b (from,to)
         """
         get a, b, from, to
         """
-        self.human_distribution_function = function # distribute base on x which is time_stamp, this function to calculate the number of people in the hallway
         splitted = function.split(" ")
-        self.a = splitted[2]
-        self.b = splitted[4]
-        self.left_bound = splitted[6].split(",")[0]
-        self.right_bound = splitted[6].split(",")[1]
+        a = splitted[2]
+        b = splitted[6]
+
+        # split 7 then remove '(' and ')'
+        from_to = splitted[7].replace("(", "").replace(")", "").split(",")
+
+        return a, b, from_to
+
+    def agent_calculator(self, agents_distribution, time_stamp):
+        # y = a * x + b (from,to)
+        """
+        get a, b, from, to
+        """
+        selected_function = ""
+        for function in self.functions_list:
+            _, _, from_to = self.read_function(function)
+            if int(from_to[0]) <= time_stamp <= int(from_to[1]):
+                selected_function = function
+                print(selected_function)
+                break
+
+        a, b, _ = self.read_function(selected_function)
+        if int(int(a) * int(time_stamp) + int(b)) > self.MaxAgents:
+            return int(self.MaxAgents / 100 * agents_distribution)
+        return int(int(int(a) * int(time_stamp) + int(b)) / 100 * agents_distribution)
+
+
+    def init2json(self):
+        """
+        input:
+        MaxAgents: int
+        hallways_list: list of json object:
+            [
+                {
+                    "hallway_id": "hallway_id",
+                    "length": 0,
+                    "width": 0,
+                    "agents_distribution": X% # percentage of people in this hallway compared to the entire map
+                },
+                ...
+            ]
+        function_list: list of string: ["y = a * x + b (from,to)", ...] # dictate the number of people in the entire map
+        events_list: list of json object:
+            [
+                {
+                    "AgvIDs": [],
+                    "AgvDirections": [],
+                    "time_stamp": 0,
+                    "hallway_id": "hallway_id"
+                }
+            ]
+
+        output:
+        {
+            "Scenario_ID": "scenario_id",
+            "hallways": [
+                {
+                    "hallway_id": "hallway_id",
+                    "length": 0,
+                    "width": 0,
+                    "agv_ids": [],
+                    "agv_directions": [],
+                    "human_type_distribution": [22,5,17,22,17,17], # this one is constant
+                    "number_of_people": function, # (y = a * x + b)/100 * agents_distribution # function change depend on the time_stamp(if from <= time_stamp <= to then use this function)
+                    "time_stamp": 0
+                },
+                ...
+            ]
+        }
+        """
+        self.Scenario["Scenario_ID"] = self.scenario_id
+        self.Scenario["MaxAgents"] = self.MaxAgents
+        self.Scenario["Events"] = []
+        self.Scenario["hallway_width"] = 4
+
+        for hallway in self.hallways_list:
+            for event in self.events_list:
+                if event["hallway_id"] == hallway["hallway_id"]:
+                    agents_count = self.agent_calculator(hallway["agents_distribution"], event["time_stamp"])
+                    self.Scenario["Events"].append(
+                        {"hallway_id": hallway["hallway_id"],
+                            "length": hallway["length"],
+                            "width": hallway["width"],
+                            "agv_ids": event["AgvIDs"],
+                            "agv_directions": event["AgvDirections"],
+                            "human_type_distribution": [22, 5, 17, 22, 17, 17],
+                            "num_people": agents_count,
+                            "time_stamp": event["time_stamp"]
+                            })
+
 
     def prepare_data(self):
         # check the time_stamp and create a list of time_stamp(empty json object)
         time_stamps = set()
-        for hallway in self.hallways:
-            time_stamps.add(hallway["time_stamp"])
+        for event in self.Scenario["Events"]:
+            time_stamps.add(event["time_stamp"])
         time_stamps = sorted(list(time_stamps))
 
         # create json object for each time_stamp
         self.run_dict = {}
         for time_stamp in time_stamps:
             self.run_dict[time_stamp] = []
-            for hallway in self.hallways:
-                if hallway["time_stamp"] == time_stamp:
-                    self.run_dict[time_stamp].append(hallway)
+            for event in self.Scenario["Events"]:
+                if event["time_stamp"] == time_stamp:
+                    self.run_dict[time_stamp].append(event)
 
         # generate variables for logging the completion time of each AGV
         # read all AGV IDs from the hallways
         agv_ids = set()
         self.AGV_COMPLETION_LOGS = {}
-        for hallway in self.hallways:
-            for ids in hallway["agv_ids"]:
-                for agv_id in ids:
-                    agv_ids.add(agv_id)
+        for event in self.Scenario["Events"]:
+            for id in event["agv_ids"]:
+                #print(id)
+                agv_ids.add(int(id))
+        #print(agv_ids)
         for agv_id in agv_ids:
             self.AGV_COMPLETION_LOGS[agv_id] = {}
 
-        # calculate the number of people in the hallway for each time_stamp and add to the hallway object
-        for time_stamp in time_stamps:
-            for hallway in self.run_dict[time_stamp]:
-                x = time_stamp
-                y = self.a * x + self.b
-                hallway["num_people"] = y
 
     def run_simulation(self):
+        self.init2json()
         self.prepare_data()
         # call class HallwaySimulator to run the simulation
         hallway_simulator = HallwaySimulator()
+
         for time_stamp in self.run_dict:
             for hallway in self.run_dict[time_stamp]:
                 hallway_simulator.set_params(
                     hallway["hallway_id"],
-                    hallway["height"],
+                    hallway["length"],
                     hallway["width"],
                     hallway["agv_ids"],
                     hallway["agv_directions"],
@@ -434,9 +546,11 @@ class BulkHallwaySimulator:
                     0
                 )
                 output = hallway_simulator.run_simulation()
+                print(output)
                 for agv in output:
-                    self.AGV_COMPLETION_LOGS[agv[0]][hallway["hallway_id"]] = {"time_stamp": time_stamp, "completion_time": agv[1]}
+                    self.AGV_COMPLETION_LOGS[agv[0]][hallway['hallway_id']] = {"time_stamp": time_stamp, "completion_time": agv[1]}
+
+        print(self.AGV_COMPLETION_LOGS)
         return self.AGV_COMPLETION_LOGS
-    
 
-
+#    def output_filter(self):

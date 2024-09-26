@@ -1,0 +1,66 @@
+{
+  "Scenario_ID": 1,
+  "Human_distribution_function": "y = 10 * x + 6 (x[from,to])",
+  "max_people": 100,
+  "min_people": 0,
+  "hallways": [
+    {
+      "hallway_id": "hallway_id_0",
+      "length": 66,
+      "width": 4,
+      "agv_ids": [
+        0,
+        1
+      ],
+      "agv_directions": [
+        0,
+        1
+      ],
+      "human_type_distribution": [
+        22,
+        5,
+        17,
+        22,
+        17,
+        17
+      ],
+      "time_stamp": 0
+    },
+    {
+      "hallway_id": "hallway_id_0",
+      "length": 66,
+      "width": 4,
+      "agv_ids": [
+        3
+      ],
+      "agv_directions": [
+        0
+      ],
+      "human_type_distribution": [
+        22,
+        5,
+        17,
+        22,
+        17,
+        17
+      ],
+      "time_stamp": 50
+    },
+    {
+      "hallway_id": "hallway_id_1",
+      "length": 33,
+      "width": 4,
+      "agv_ids": [2, 1],
+      "agv_directions": [1, 1],
+      "human_type_distribution": [
+        22,
+        5,
+        17,
+        22,
+        17,
+        17
+      ],
+      "time_stamp": 14
+    }
+  ]
+}
