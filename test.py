@@ -2,18 +2,6 @@ from new.hallway_simulator_module.HallwaySimulator import HallwaySimulator, Bulk
 import os
 import json
 
-hallway_simulator = HallwaySimulator()
-"""
-self.hallway_id = 0 # string
-self.hallway_length = 0 # int
-self.hallway_width = 0 # int
-self.agv_ids = [] # list of int
-self.agv_directions = [] # list of int
-self.num_people = 0 # int
-self.human_type_distribution = [] # list of int
-self.time_stamp = 0 # int
-self.event_type = 0 # int
-"""
 os.system("pwd")
 """
 hallways_list: list of json object:
