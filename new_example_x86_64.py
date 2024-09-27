@@ -1,4 +1,4 @@
-from x86_64.hallway_simulator_module.HallwaySimulator import HallwaySimulator, BulkHallwaySimulator
+from hallway_simulator_module.HallwaySimulator import HallwaySimulator, BulkHallwaySimulator
 import os
 import json
 
