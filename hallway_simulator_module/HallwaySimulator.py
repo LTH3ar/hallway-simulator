@@ -8,6 +8,12 @@ import time
 import sys
 import platform
 
+def clean_up():
+    os.system("rm -rf data/input/*")
+    os.system("rm -rf data/output/*")
+    os.system("rm -rf data/timeline/*")
+    os.system("rm -rf data/tmp/*")
+
 class HallwaySimulator:
     def __init__(self):
         self.hallway_id = 0 # string

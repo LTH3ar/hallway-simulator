@@ -17,16 +17,10 @@ hallways_list: list of json object:
 """
 hallways_list = [
     {
-        "hallway_id": "hallway_1",
+        "hallway_id": "Region_1",
         "length": 66,
         "width": 4,
         "agents_distribution": 15
-    },
-    {
-        "hallway_id": "hallway_2",
-        "length": 66,
-        "width": 4,
-        "agents_distribution": 12
     }
 ]
 
@@ -48,10 +42,10 @@ events_list: list of json object:
 """
 events_list = [
     {
-        "AgvIDs": [0, 1],
-        "AgvDirections": [0, 1],
+        "AgvIDs": [1],
+        "AgvDirections": [1],
         "time_stamp": 0,
-        "hallway_id": "hallway_1"
+        "hallway_id": "Region_1"
     }
 ]
 HallwaySimulator().full_clean()
